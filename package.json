@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "add-zero": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "ls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

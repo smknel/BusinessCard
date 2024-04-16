@@ -1,0 +1,52 @@
+body{
+
+margin:200px;
+background-color: rgb(249, 246, 241);
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.avathar{
+
+    width: 150px;
+
+    height: 150px;
+
+}
+
+.divmain{
+
+    background-color: f1ece2;
+    padding: 20px;
+    justify-content: space-around;
+    display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid purple;
+   
+    border-radius: 10%;
+}
+
+.inner_margin{
+
+color: red;
+
+
+}
+
+.dottedborder{
+    border: 1px dotted black;
+
+
+}
+
+.redcircle{
+
+   height: 200px;
+   width: 200px;
+   border: 1px solid black;
+   border-radius: 10%;
+}
